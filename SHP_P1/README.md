@@ -8,7 +8,6 @@ Este repositorio contiene materiales para realizar un análisis exploratorio de 
 
 - `data/top50.csv`: Dataset con las 50 canciones más populares en Spotify.
 - `notebooks/analisis_spotify_top50.ipynb`: Notebook interactivo con análisis paso a paso.
-- `scripts/analisis_spotify_top50.py`: Script Python con código para análisis y limpieza.
 - `.gitignore`: Para ignorar archivos temporales y de entorno.
 
 ---
