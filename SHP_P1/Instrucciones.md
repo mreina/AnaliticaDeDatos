@@ -3,6 +3,10 @@
 **Fecha:** 31 de mayo de 2025  
 **Actividad:** Saber Hacer Producto  
 
+## Objetivo
+
+Realizar un análisis exploratorio y limpieza de datos usando Python con el dataset `top50.csv` de Spotify.
+
 ## Descripción de las columnas
 
 - **Track.Name**: Nombre de la canción  
@@ -41,13 +45,15 @@
 5. Mostrar el valor promedio del tiempo de la canción.
 6. Mostrar el valor mayor del volumen de la canción.
 7. Mostrar el valor minimo de la energia de la cancion.
-8. Mostrar las canciones que duran más de 2:00 minutos
-9. Mostrar el promedio de cada columna numérica.
-10. ¿Cuál es la canción más larga?
-11. Mostrar el nombre del artista de la canción más corta.
+8. Mostrar el promedio de cada columna numérica.
+9. Artista con más canciones en el Top 50.
+10. Analiza Ed Sheeran es el más popular, responde SI o NO, con base a la popularidad.
+11. Mostrar el genero con mas canciones
+12. Mostrar las 5 canciones más bailables.
 
-## Generar Gráficas
-6. Genera una gráfica donde se muestre el total de canciones por artista.
-7. Genera un gráfica donde se muestra el total de canciones por Genero.
-8. Mostrar un mapa de calor (Corr) del DataFrame.
+## Visualización de Datos
+1. Genera una gráfica donde se muestre el total de canciones por artista.
+2. Genera un gráfica donde se muestra el total de canciones por Genero.
+3. Mostrar un mapa de calor (Corr) del DataFrame.
+4. Graficar las canciones populares vs las canciones bailables.
    
