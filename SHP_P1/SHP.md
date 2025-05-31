@@ -3,6 +3,10 @@
 **Fecha:** 31 de mayo de 2025  
 **Actividad:** Saber Hacer Producto  
 
+## Objetivo
+
+Realizar un análisis exploratorio y limpieza de datos usando Python con el dataset `top50.csv` de Spotify.
+
 ## Descripción de las columnas
 
 - **Track.Name**: Nombre de la canción  
